@@ -1,2 +1,3 @@
-# Exploring-Ebay-Car-Sales-Data
-Data Science In Python
+Determine the brands of the most popular car listings on Ebay
+# Dataset Used
+https://www.kaggle.com/orgesleka/used-cars-database/data
